@@ -1,0 +1,30 @@
+#time{
+    width: 1090px;
+    height: 250px;
+}
+li{
+    width: 270px;
+    list-style: none;
+    
+ 
+}
+#time2{
+    width: 670px;
+}
+#a{
+    width: 60px;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+a:hover{
+    color: black;
+}
+#time3{
+    width: 170px;
+}
+#time4{
+    width: 670px;  
+}
