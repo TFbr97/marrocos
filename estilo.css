@@ -40,13 +40,23 @@ a:hover{
     width: 15%;
     margin-top: 10px;
     margin-left: 8%;
+    background-color:  rgb(121, 13, 50);
+    color: white;
 }
 
 #jogos{
     margin-left: 5%;
+    color: white;
+    background-color:  rgb(121, 13, 50);
+
 }
 
 h5{
     padding-top: 3px;
     padding-bottom: 3px;
+}
+
+body{
+    background: rgb(148,14,60);
+    background: linear-gradient(106.9deg, rgba(148,14,60,1) 60.9%, rgba(3,22,27,1) 122.3%);
 }
